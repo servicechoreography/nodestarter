@@ -1,0 +1,12 @@
+{
+  "name": "hello-node",
+  "version": "0.0.1",
+  "description": "Hello world from io.js in a Windows docker container",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" & exit 1"
+  },
+  "author": "Service Choreography",
+  "license": "Self"
+}
